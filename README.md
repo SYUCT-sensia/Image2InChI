@@ -3,3 +3,18 @@ The accurate identification and analysis of chemical structures in molecular ima
 <div align="center">
   <img src="https://github.com/SYUCT-sensia/Image2InChI/blob/dataset/Image2InChI.jpg">
 </div>
+Project Status
+📢 News: Our research paper is currently in the process of being submitted for publication. Stay tuned for updates on its progress!
+
+While the project is not yet complete, we are actively working on improving and expanding its functionality. We plan to continually update the repository.
+
+Contributing
+We welcome contributions from the community! If you’re interested in contributing to our project, please refer to our Contribution Guidelines. By contributing, you can help us make Image2InChI even better.
+
+Issues and Bug Reports
+If you encounter any issues or bugs while using Image2InChI, please open an issue on our GitHub repository. We appreciate your help in improving the project and addressing any problems.
+
+Contact
+For any questions or inquiries, please contact our team at image2inchi@example.com.
+
+Thank you for your interest in Image2InChI! We look forward to your support and feedback.
