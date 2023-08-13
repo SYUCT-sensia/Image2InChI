@@ -9,8 +9,8 @@ This is the official repository for the Image2InChI project. Image2InChI is a de
 
 ### Project Status
 
-📢 **News**: Our research paper is currently in the process of being submitted for publication. Stay tuned for updates on its progress!
-
+📢 **News**: 
+Our research paper is currently in the process of being submitted for publication. Stay tuned for updates on its progress!
 While the project is not yet complete, we are actively working on improving and expanding its functionality. We plan to continually update the repository.
 
 ### Contributing
