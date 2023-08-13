@@ -13,10 +13,6 @@ This is the official repository for the Image2InChI project. Image2InChI is a de
 Our research paper is currently in the process of being submitted for publication. Stay tuned for updates on its progress!
 While the project is not yet complete, we are actively working on improving and expanding its functionality. We plan to continually update the repository.
 
-### Contributing
-
-We welcome contributions from the community! If you're interested in contributing to our project, please refer to our [Contribution Guidelines](CONTRIBUTING.md). By contributing, you can help us make Image2InChI even better.
-
 ### Contact
 
 For any questions or inquiries, please contact our team.
